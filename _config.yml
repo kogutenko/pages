@@ -6,3 +6,5 @@ incremental: false
 highlighter: rouge
 gist:
   noscript: false
+kramdown:
+  syntax_highlighter: rouge
